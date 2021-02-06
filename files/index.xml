@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<person>
+  <firstname>Arun</firstname>
+  <lastname>Chithambaram</lastname>
+  <home>Earth</home>
+  <skill name='HTML'/>
+  <skill name='not XML'/>
+</person>
